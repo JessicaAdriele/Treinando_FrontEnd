@@ -1,0 +1,11 @@
+.selector-for-some-widget {
+  box-sizing: content-box;
+}
+
+h1 {
+    color: blue;
+}
+
+h1:hover {
+    color: red;
+}
